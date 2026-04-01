@@ -1,5 +1,0 @@
-This is the testRose2 doc for adding new file in Rose branch.
-
-------For practice purpose-----------------
-
-Adding new set of requirement for checking stashing .....
