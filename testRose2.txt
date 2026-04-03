@@ -1,3 +1,0 @@
-This is the testRose2 doc for adding new file in Rose branch.
-
-------For practice purpose-----------------
