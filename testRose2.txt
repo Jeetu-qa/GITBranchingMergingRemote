@@ -1,3 +1,0 @@
-This is new file for testRose2 in terminal1.....
-
-Please use it for practice!
